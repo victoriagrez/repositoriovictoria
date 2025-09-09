@@ -8,6 +8,7 @@ class MainApp extends StatelessWidget {
   const MainApp({super.key});
 
   @override
+
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
@@ -198,7 +199,7 @@ class MainApp extends StatelessWidget {
               color: Colors.white,
               child: Row(
                 children: [
-                  //CUADRADO DE FOTO CANCION
+                  //CUADRADO FOTO CANCION
                   Container(
                     width: 48,
                     height: 48,
