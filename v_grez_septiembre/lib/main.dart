@@ -58,7 +58,7 @@ class MainApp extends StatelessWidget {
                 fontSize: 16,
                 color: Colors.black54,
               ),
-              // textAlign: TextAlign.center, // Elimina o comenta esta línea
+  
             ),
 
             const SizedBox(height: 18),
@@ -637,10 +637,7 @@ class MainApp extends StatelessWidget {
                 ],
               ),
             ),
-const SizedBox(height: 18),
-
-
-
+            const SizedBox(height: 18),
           ],
         ),
       ),
